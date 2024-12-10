@@ -1,0 +1,8 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Faz o container ocupar toda a altura da tela */
+  margin: 0; /* Remove margens externas */
+}
